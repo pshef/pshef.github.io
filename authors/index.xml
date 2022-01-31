@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on PShef&#39;s Blog</title>
+    <link>https://pshef.github.io/authors/</link>
+    <description>Recent content in Authors on PShef&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2022 &lt;a href=&#34;https://pshef.work/&#34;&gt;PShef&lt;/a&gt;
+</copyright>
+    <lastBuildDate>Sun, 30 Jan 2022 18:29:22 -0600</lastBuildDate><atom:link href="https://pshef.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Christopher</title>
+      <link>https://pshef.github.io/authors/christopher/</link>
+      <pubDate>Sun, 30 Jan 2022 18:29:22 -0600</pubDate>
+      
+      <guid>https://pshef.github.io/authors/christopher/</guid>
+      <description>I write everything here. Except all the actual code. I don&amp;rsquo;t know any of that shit.</description>
+    </item>
+    
+  </channel>
+</rss>
