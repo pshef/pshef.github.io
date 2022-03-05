@@ -8,7 +8,17 @@
     <language>en</language>
     <copyright>&amp;copy; 2022 &lt;a href=&#34;https://pshef.work/&#34;&gt;PShef&lt;/a&gt;
 </copyright>
-    <lastBuildDate>Sun, 27 Feb 2022 17:37:02 -0600</lastBuildDate><atom:link href="https://pshef.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Mar 2022 11:49:09 -0600</lastBuildDate><atom:link href="https://pshef.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FIDO2 As Login</title>
+      <link>https://pshef.github.io/posts/fido2_as_login/</link>
+      <pubDate>Sat, 05 Mar 2022 11:49:09 -0600</pubDate>
+      
+      <guid>https://pshef.github.io/posts/fido2_as_login/</guid>
+      <description>I&amp;rsquo;m a huge fan of FIDO2.
+I use my FIDO2 key on every account I can. I have a stand-alone FIDO2 USB, I have two of the Nitrokey 3&amp;rsquo;s (that will eventually also be able to serve as FIDO2, GPG key storage, limited password manager, etc., but currently only has FIDO2), and a hardware password manager that also has some cool FIDO2 implementation with it. I can&amp;rsquo;t get enough of these things!</description>
+    </item>
+    
     <item>
       <title>Logfile_dump Week 8/22</title>
       <link>https://pshef.github.io/posts/logfile_dump_week822/</link>
