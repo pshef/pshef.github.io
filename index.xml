@@ -8,7 +8,17 @@
     <language>en</language>
     <copyright>&amp;copy; 2022 &lt;a href=&#34;https://pshef.work/&#34;&gt;PShef&lt;/a&gt;
 </copyright>
-    <lastBuildDate>Sun, 13 Mar 2022 11:05:47 -0500</lastBuildDate><atom:link href="https://pshef.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Mar 2022 14:36:15 -0500</lastBuildDate><atom:link href="https://pshef.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Logfile_dump_week1122</title>
+      <link>https://pshef.github.io/posts/logfile_dump_week1122/</link>
+      <pubDate>Sun, 20 Mar 2022 14:36:15 -0500</pubDate>
+      
+      <guid>https://pshef.github.io/posts/logfile_dump_week1122/</guid>
+      <description>It has been a mindnumbingly busy week at work. Here&amp;rsquo;s some of what I did outside of it:
+ I got the BHIS zine in and cracked the cipher in their cipher issue. (Side note, I wish they&amp;rsquo;d put the issue number in there somewhere.) I managed to get into the CTF website, but didn&amp;rsquo;t try out the challenges in there yet. I&amp;rsquo;ve decided that Go is going to be the programming language for me.</description>
+    </item>
+    
     <item>
       <title>Logfile_dump Week 10/22</title>
       <link>https://pshef.github.io/posts/logfile_dump_week1022/</link>
