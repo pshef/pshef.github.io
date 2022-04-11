@@ -8,7 +8,17 @@
     <language>en</language>
     <copyright>&amp;copy; 2022 &lt;a href=&#34;https://pshef.work/&#34;&gt;PShef&lt;/a&gt;
 </copyright>
-    <lastBuildDate>Sun, 03 Apr 2022 21:09:18 -0500</lastBuildDate><atom:link href="https://pshef.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Apr 2022 19:31:30 -0500</lastBuildDate><atom:link href="https://pshef.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Logfile_dump Week 14/22</title>
+      <link>https://pshef.github.io/posts/logfile_dump_week1422/</link>
+      <pubDate>Sun, 10 Apr 2022 19:31:30 -0500</pubDate>
+      
+      <guid>https://pshef.github.io/posts/logfile_dump_week1422/</guid>
+      <description>Four things for this week!
+First, I&amp;rsquo;m trying to tackle vim. More specifically, Neo vim. While somewhat old, I stumbled upon Daniel Miessler&amp;rsquo;s Vim Config Update: 2019 Edition that has peaked my interest. While I&amp;rsquo;m certainly no avimionado (get it? Aficionado + vim?) I do like some of the tweaks that can be done to vim, and really navigation isn&amp;rsquo;t that difficult and I know how to exit, so there&amp;rsquo;s not a lot stopping me from learning more.</description>
+    </item>
+    
     <item>
       <title>Logfile_dump Week 13/22</title>
       <link>https://pshef.github.io/posts/logfile_dump_week1322/</link>
