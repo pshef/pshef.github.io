@@ -8,7 +8,17 @@
     <language>en</language>
     <copyright>&amp;copy; 2022 &lt;a href=&#34;https://pshef.work/&#34;&gt;PShef&lt;/a&gt;
 </copyright>
-    <lastBuildDate>Sun, 10 Apr 2022 19:31:30 -0500</lastBuildDate><atom:link href="https://pshef.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Apr 2022 20:04:09 -0500</lastBuildDate><atom:link href="https://pshef.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Logfile_dump Week 15/22</title>
+      <link>https://pshef.github.io/posts/logfile_dump_week1522/</link>
+      <pubDate>Sun, 17 Apr 2022 20:04:09 -0500</pubDate>
+      
+      <guid>https://pshef.github.io/posts/logfile_dump_week1522/</guid>
+      <description>Really not feeling this post this week. Still dealing with pretty bad food poisoning that started Friday evening, so all of the time I had to do projects kinda fell to the wayside because I didn&amp;rsquo;t have the energy.
+I did try to get the sweet combo of RITA/Zeek/MongoDB/Bettercap up and running on my raspberry pi again. I got Bettercap running which was the hurdle I had last time I tried, but now it seems that my RITA installation ain&amp;rsquo;t feeling it.</description>
+    </item>
+    
     <item>
       <title>Logfile_dump Week 14/22</title>
       <link>https://pshef.github.io/posts/logfile_dump_week1422/</link>
