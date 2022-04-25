@@ -8,7 +8,17 @@
     <language>en</language>
     <copyright>&amp;copy; 2022 &lt;a href=&#34;https://pshef.work/&#34;&gt;PShef&lt;/a&gt;
 </copyright>
-    <lastBuildDate>Sun, 17 Apr 2022 20:04:09 -0500</lastBuildDate><atom:link href="https://pshef.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Apr 2022 19:32:03 -0500</lastBuildDate><atom:link href="https://pshef.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Logfile_dump Week 16/22</title>
+      <link>https://pshef.github.io/posts/logfile_dump_week1622/</link>
+      <pubDate>Sun, 24 Apr 2022 19:32:03 -0500</pubDate>
+      
+      <guid>https://pshef.github.io/posts/logfile_dump_week1622/</guid>
+      <description>This week, it&amp;rsquo;s been a week. A calendar week. I have potentially big news, but until the ink dries I can&amp;rsquo;t say specifics. But keep an eye on the blog for updates!
+This week I took a course of regular expressions. Having been mystified by them for quite some time, I now feel like I have some understanding of how they work, but because I&amp;rsquo;m not parsing text on a daily basis I haven&amp;rsquo;t developed a familiarity with them to the point where I&amp;rsquo;m comfortable saying &amp;ldquo;I know how to use regex.</description>
+    </item>
+    
     <item>
       <title>Logfile_dump Week 15/22</title>
       <link>https://pshef.github.io/posts/logfile_dump_week1522/</link>
