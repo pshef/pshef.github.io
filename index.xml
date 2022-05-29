@@ -8,7 +8,16 @@
     <language>en</language>
     <copyright>&amp;copy; 2022 &lt;a href=&#34;https://pshef.work/&#34;&gt;PShef&lt;/a&gt;
 </copyright>
-    <lastBuildDate>Mon, 16 May 2022 20:14:07 -0500</lastBuildDate><atom:link href="https://pshef.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 May 2022 10:06:19 -0500</lastBuildDate><atom:link href="https://pshef.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>No New Updates This Week</title>
+      <link>https://pshef.github.io/posts/no-new-updates-this-week/</link>
+      <pubDate>Sun, 29 May 2022 10:06:19 -0500</pubDate>
+      
+      <guid>https://pshef.github.io/posts/no-new-updates-this-week/</guid>
+      <description>No new blog posts this week, and not one for last week either. Had some things come up that took precedence. Look for a new Logfile_dump next week though.</description>
+    </item>
+    
     <item>
       <title>A New Script</title>
       <link>https://pshef.github.io/posts/a-new-script/</link>
